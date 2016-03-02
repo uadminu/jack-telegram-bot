@@ -19,5 +19,9 @@ _ =
     "time"
     "ipinfo"
     "location"
+    "spotify"
+    "talk"
+    "linkshortener"
+    "giphy"
   }
 return _
