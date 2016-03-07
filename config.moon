@@ -32,5 +32,6 @@ _ =
     "webshot"
     "who"
     "wikipedia"
+    "qrcode"
   }
 return _
